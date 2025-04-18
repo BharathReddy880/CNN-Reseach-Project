@@ -1,0 +1,7 @@
+Designed and implemented robust CNN architecture for real-time age and gender detection, achieving 88% gender classification accuracy and 70% age group accuracy.
+Leveraged TensorFlow/Keras, OpenCV, and Python for model development and deployment. Executed end-to-end data preprocessing on 23,708-image dataset, merging age groups and applying oversampling techniques.
+Enhanced model fairness and generalization with high sensitivity of 81.35% for toddlers and specificity of 98.58%.
+Introduced MAE as a novel loss function for age prediction, reducing overfitting to achieve training loss of 4.78798.
+Utilized data augmentation and hyperparameter tuning to enhance model robustness.
+Conducted performance analysis using confusion matrices and precision-recall metrics, benchmarking against existing literature.
+Published comprehensive thesis detailing contributions to computer vision applications in digital identity verification.
